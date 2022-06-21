@@ -10,7 +10,7 @@ https://www.kaggle.com/datasets/rikdifos/credit-card-approval-prediction?select=
 Whole dataset contains 438737 examples\
 159 outlier observations were dropped\
 Train dataset contains 350718 examples\
-Test dataset contains 87860 examples\
+Test dataset contains 87860 examples
 
 ## Models
 
