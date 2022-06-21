@@ -4,13 +4,13 @@
 The goal of the project was to create a model that predicts a person's education level based on: gender, car ownership, real estate ownership, number of children, income, number of members in the family, source of income, and family status.
 
 ## Dataset
-Data comes from "Credit Card Approval Prediction" dataset on kaggle.com \
+Data comes from "Credit Card Approval Prediction" dataset on kaggle.com\
 https://www.kaggle.com/datasets/rikdifos/credit-card-approval-prediction?select=application_record.csv
 
-Whole dataset contains 438737 examples \ 
-159 outlier observations were dropped \
-Train dataset contains 350718 examples \
-Test dataset contains 87860 examples \
+Whole dataset contains 438737 examples\
+159 outlier observations were dropped\
+Train dataset contains 350718 examples\
+Test dataset contains 87860 examples\
 
 ## Models
 
