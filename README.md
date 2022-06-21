@@ -22,6 +22,6 @@ Test dataset contains 87860 examples\
 
 | Model               | Accuracy | Recall | F1-score |
 | ------------------- | -------- | ------ | -------- |
-| Logistic regression | 0.7030   | 0.6406 | 0.6269   |
-| SGD                 | 0.6919   | 0.7409 | 0.5659   |
+| Logistic regression | **0.7030**   | 0.6406 | **0.6269**   |
+| SGD                 | 0.6919   | **0.7409** | 0.5659   |
 | Neural Network      | 0.6998   | 0.6370 | 0.6250   |
